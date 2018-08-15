@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-Museum", "Assembly-CSharp.csproj", "{FCB5FA97-14CB-7344-B02F-6AA0D942CB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-Museum", "Assembly-CSharp-Editor.csproj", "{DD02FC6C-C34F-7657-1D6A-C2596E9D2BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB5FA97-14CB-7344-B02F-6AA0D942CB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB5FA97-14CB-7344-B02F-6AA0D942CB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB5FA97-14CB-7344-B02F-6AA0D942CB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB5FA97-14CB-7344-B02F-6AA0D942CB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD02FC6C-C34F-7657-1D6A-C2596E9D2BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD02FC6C-C34F-7657-1D6A-C2596E9D2BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD02FC6C-C34F-7657-1D6A-C2596E9D2BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD02FC6C-C34F-7657-1D6A-C2596E9D2BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
